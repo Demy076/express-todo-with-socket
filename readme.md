@@ -1,0 +1,1 @@
+Simple todo API made in a entirely simple framework, soon a Golang and Fastify example. With live mysql synching on Golang (easy).
